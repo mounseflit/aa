@@ -1,0 +1,967 @@
+{
+  "idle_videos": {
+    "idle_1": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\idle_1.mp4",
+      "error": "",
+      "updated_at": 1772506846.7475173
+    },
+    "idle_2": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\idle_2.mp4",
+      "error": "",
+      "updated_at": 1772507106.6166983
+    },
+    "idle_3": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\idle_3.mp4",
+      "error": "",
+      "updated_at": 1772507396.7238941
+    },
+    "idle_4": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\idle_4.mp4",
+      "error": "",
+      "updated_at": 1772507618.6098785
+    },
+    "q1": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q1.mp4",
+      "error": "",
+      "updated_at": 1772507618.7593935
+    },
+    "q2": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q2.mp4",
+      "error": "",
+      "updated_at": 1772507618.7969122
+    },
+    "q3": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q3.mp4",
+      "error": "",
+      "updated_at": 1772507618.8302274
+    },
+    "q4": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q4.mp4",
+      "error": "",
+      "updated_at": 1772507618.866118
+    },
+    "q5": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q5.mp4",
+      "error": "",
+      "updated_at": 1772507618.8956468
+    },
+    "q6": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q6.mp4",
+      "error": "",
+      "updated_at": 1772507618.9263844
+    },
+    "q7": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q7.mp4",
+      "error": "",
+      "updated_at": 1772507618.9579828
+    },
+    "q8": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q8.mp4",
+      "error": "",
+      "updated_at": 1772507618.9894855
+    },
+    "q9": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q9.mp4",
+      "error": "",
+      "updated_at": 1772507619.0180986
+    },
+    "q10": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q10.mp4",
+      "error": "",
+      "updated_at": 1772507619.0508087
+    },
+    "q11": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q11.mp4",
+      "error": "",
+      "updated_at": 1772507619.0813308
+    },
+    "q12": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q12.mp4",
+      "error": "",
+      "updated_at": 1772507619.133579
+    },
+    "q13": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q13.mp4",
+      "error": "",
+      "updated_at": 1772507619.1707733
+    },
+    "q14": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q14.mp4",
+      "error": "",
+      "updated_at": 1772507619.20437
+    },
+    "q15": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q15.mp4",
+      "error": "",
+      "updated_at": 1772507619.2229903
+    },
+    "q16": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q16.mp4",
+      "error": "",
+      "updated_at": 1772507619.2383716
+    },
+    "q17": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q17.mp4",
+      "error": "",
+      "updated_at": 1772507619.2682443
+    },
+    "q18": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q18.mp4",
+      "error": "",
+      "updated_at": 1772507619.3038917
+    },
+    "q19": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q19.mp4",
+      "error": "",
+      "updated_at": 1772507619.334024
+    },
+    "q20": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q20.mp4",
+      "error": "",
+      "updated_at": 1772507619.3611474
+    },
+    "q21": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q21.mp4",
+      "error": "",
+      "updated_at": 1772507619.3963733
+    },
+    "q22": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q22.mp4",
+      "error": "",
+      "updated_at": 1772507619.4337382
+    },
+    "q23": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q23.mp4",
+      "error": "",
+      "updated_at": 1772507619.4641657
+    },
+    "q24": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q24.mp4",
+      "error": "",
+      "updated_at": 1772507619.4998977
+    },
+    "q25": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q25.mp4",
+      "error": "",
+      "updated_at": 1772507619.5342026
+    },
+    "q26": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q26.mp4",
+      "error": "",
+      "updated_at": 1772507619.566663
+    },
+    "q27": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q27.mp4",
+      "error": "",
+      "updated_at": 1772507619.6022046
+    },
+    "q28": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q28.mp4",
+      "error": "",
+      "updated_at": 1772507619.6344771
+    },
+    "q29": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q29.mp4",
+      "error": "",
+      "updated_at": 1772507619.669085
+    },
+    "q30": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q30.mp4",
+      "error": "",
+      "updated_at": 1772507619.6861591
+    },
+    "q31": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q31.mp4",
+      "error": "",
+      "updated_at": 1772507619.706125
+    },
+    "q32": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q32.mp4",
+      "error": "",
+      "updated_at": 1772507619.7203715
+    },
+    "q33": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q33.mp4",
+      "error": "",
+      "updated_at": 1772507619.7329445
+    },
+    "q34": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q34.mp4",
+      "error": "",
+      "updated_at": 1772507619.7502556
+    },
+    "q35": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q35.mp4",
+      "error": "",
+      "updated_at": 1772507619.7725728
+    },
+    "q36": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q36.mp4",
+      "error": "",
+      "updated_at": 1772507619.7960238
+    },
+    "q37": {
+      "status": "done",
+      "path": "avatars\\adwina\\idles\\q37.mp4",
+      "error": "",
+      "updated_at": 1772507619.8225887
+    }
+  },
+  "listening_videos": {
+    "listen_1": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\listen_1.mp4",
+      "error": "",
+      "updated_at": 1772507706.573444
+    },
+    "listen_2": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\listen_2.mp4",
+      "error": "",
+      "updated_at": 1772507792.0301313
+    },
+    "listen_3": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\listen_3.mp4",
+      "error": "",
+      "updated_at": 1772507868.515305
+    },
+    "listen_4": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\listen_4.mp4",
+      "error": "",
+      "updated_at": 1772507946.203108
+    },
+    "l1": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l1.mp4",
+      "error": "",
+      "updated_at": 1772507946.2463863
+    },
+    "l2": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l2.mp4",
+      "error": "",
+      "updated_at": 1772507946.2986462
+    },
+    "l3": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l3.mp4",
+      "error": "",
+      "updated_at": 1772507946.3441665
+    },
+    "l4": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l4.mp4",
+      "error": "",
+      "updated_at": 1772507946.391574
+    },
+    "l5": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l5.mp4",
+      "error": "",
+      "updated_at": 1772507946.441952
+    },
+    "l6": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l6.mp4",
+      "error": "",
+      "updated_at": 1772507946.4857848
+    },
+    "l7": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l7.mp4",
+      "error": "",
+      "updated_at": 1772507946.5352244
+    },
+    "l8": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l8.mp4",
+      "error": "",
+      "updated_at": 1772507946.58091
+    },
+    "l9": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l9.mp4",
+      "error": "",
+      "updated_at": 1772507946.628118
+    },
+    "l10": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l10.mp4",
+      "error": "",
+      "updated_at": 1772507946.6834977
+    },
+    "l11": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l11.mp4",
+      "error": "",
+      "updated_at": 1772507946.7351758
+    },
+    "l12": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l12.mp4",
+      "error": "",
+      "updated_at": 1772507946.7800121
+    },
+    "l13": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l13.mp4",
+      "error": "",
+      "updated_at": 1772507946.82993
+    },
+    "l14": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l14.mp4",
+      "error": "",
+      "updated_at": 1772507946.8808792
+    },
+    "l15": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l15.mp4",
+      "error": "",
+      "updated_at": 1772507946.9323215
+    },
+    "l16": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l16.mp4",
+      "error": "",
+      "updated_at": 1772507946.9863954
+    },
+    "l17": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l17.mp4",
+      "error": "",
+      "updated_at": 1772507947.0457158
+    },
+    "l18": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l18.mp4",
+      "error": "",
+      "updated_at": 1772507947.0840504
+    },
+    "l19": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l19.mp4",
+      "error": "",
+      "updated_at": 1772507947.1081736
+    },
+    "l20": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l20.mp4",
+      "error": "",
+      "updated_at": 1772507947.1353064
+    },
+    "l21": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l21.mp4",
+      "error": "",
+      "updated_at": 1772507947.1668568
+    },
+    "l22": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l22.mp4",
+      "error": "",
+      "updated_at": 1772507947.215245
+    },
+    "l23": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l23.mp4",
+      "error": "",
+      "updated_at": 1772507947.2394369
+    },
+    "l24": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l24.mp4",
+      "error": "",
+      "updated_at": 1772507947.2658377
+    },
+    "l25": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l25.mp4",
+      "error": "",
+      "updated_at": 1772507947.297145
+    },
+    "l26": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l26.mp4",
+      "error": "",
+      "updated_at": 1772507947.3426359
+    },
+    "l27": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l27.mp4",
+      "error": "",
+      "updated_at": 1772507947.412031
+    },
+    "l28": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l28.mp4",
+      "error": "",
+      "updated_at": 1772507947.4529605
+    },
+    "l29": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l29.mp4",
+      "error": "",
+      "updated_at": 1772507947.47653
+    },
+    "l30": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l30.mp4",
+      "error": "",
+      "updated_at": 1772507947.5037236
+    },
+    "l31": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l31.mp4",
+      "error": "",
+      "updated_at": 1772507947.5276625
+    },
+    "l32": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l32.mp4",
+      "error": "",
+      "updated_at": 1772507947.552321
+    },
+    "l33": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l33.mp4",
+      "error": "",
+      "updated_at": 1772507947.5748408
+    },
+    "l34": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l34.mp4",
+      "error": "",
+      "updated_at": 1772507947.6088505
+    },
+    "l35": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l35.mp4",
+      "error": "",
+      "updated_at": 1772507947.649752
+    },
+    "l36": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l36.mp4",
+      "error": "",
+      "updated_at": 1772507947.683894
+    },
+    "l37": {
+      "status": "done",
+      "path": "avatars\\adwina\\listening\\l37.mp4",
+      "error": "",
+      "updated_at": 1772507947.7413104
+    }
+  },
+  "audio": {
+    "A1": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A1.mp3",
+      "error": "",
+      "updated_at": 1772507952.9333017
+    },
+    "A2": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A2.mp3",
+      "error": "",
+      "updated_at": 1772508110.9484856
+    },
+    "A3": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A3.mp3",
+      "error": "",
+      "updated_at": 1772508263.56876
+    },
+    "A4": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A4.mp3",
+      "error": "",
+      "updated_at": 1772508420.8438113
+    },
+    "A5": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A5.mp3",
+      "error": "",
+      "updated_at": 1772508556.1284242
+    },
+    "A6": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A6.mp3",
+      "error": "",
+      "updated_at": 1772508756.5503516
+    },
+    "A7": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A7.mp3",
+      "error": "",
+      "updated_at": 1772508854.0560322
+    },
+    "A8": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A8.mp3",
+      "error": "",
+      "updated_at": 1772508964.4319863
+    },
+    "A9": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A9.mp3",
+      "error": "",
+      "updated_at": 1772509061.5011234
+    },
+    "A10": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A10.mp3",
+      "error": "",
+      "updated_at": 1772509213.1375701
+    },
+    "A11": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A11.mp3",
+      "error": "",
+      "updated_at": 1772509398.7753146
+    },
+    "A12": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A12.mp3",
+      "error": "",
+      "updated_at": 1772509540.6508718
+    },
+    "A13": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A13.mp3",
+      "error": "",
+      "updated_at": 1772509705.6022804
+    },
+    "A14": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A14.mp3",
+      "error": "",
+      "updated_at": 1772509869.9344096
+    },
+    "A15": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A15.mp3",
+      "error": "",
+      "updated_at": 1772510020.5168033
+    },
+    "A16": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A16.mp3",
+      "error": "",
+      "updated_at": 1772510096.768617
+    },
+    "A17": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A17.mp3",
+      "error": "",
+      "updated_at": 1772510184.2772076
+    },
+    "A18": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A18.mp3",
+      "error": "",
+      "updated_at": 1772510267.5192988
+    },
+    "A19": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A19.mp3",
+      "error": "",
+      "updated_at": 1772510381.398837
+    },
+    "A20": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A20.mp3",
+      "error": "",
+      "updated_at": 1772510526.31969
+    },
+    "A21": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A21.mp3",
+      "error": "",
+      "updated_at": 1772510739.3259327
+    },
+    "A22": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A22.mp3",
+      "error": "",
+      "updated_at": 1772510930.717114
+    },
+    "A23": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A23.mp3",
+      "error": "",
+      "updated_at": 1772511091.1462476
+    },
+    "A24": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A24.mp3",
+      "error": "",
+      "updated_at": 1772511242.2547996
+    },
+    "A25": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A25.mp3",
+      "error": "",
+      "updated_at": 1772511363.2689636
+    },
+    "A26": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A26.mp3",
+      "error": "",
+      "updated_at": 1772511503.8323586
+    },
+    "A27": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A27.mp3",
+      "error": "",
+      "updated_at": 1772511714.4224184
+    },
+    "A28": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A28.mp3",
+      "error": "",
+      "updated_at": 1772511924.4049094
+    },
+    "A29": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A29.mp3",
+      "error": "",
+      "updated_at": 1772512076.9036498
+    },
+    "A30": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A30.mp3",
+      "error": "",
+      "updated_at": 1772512253.7547104
+    },
+    "A31": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A31.mp3",
+      "error": "",
+      "updated_at": 1772512411.5011544
+    },
+    "A32": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A32.mp3",
+      "error": "",
+      "updated_at": 1772512543.9525151
+    },
+    "A33": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A33.mp3",
+      "error": "",
+      "updated_at": 1772512702.1224663
+    },
+    "A34": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A34.mp3",
+      "error": "",
+      "updated_at": 1772512865.2169502
+    },
+    "A35": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A35.mp3",
+      "error": "",
+      "updated_at": 1772513052.1247158
+    },
+    "A36": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A36.mp3",
+      "error": "",
+      "updated_at": 1772513175.7997751
+    },
+    "A37": {
+      "status": "done",
+      "path": "avatars\\adwina\\audio\\A37.mp3",
+      "error": "",
+      "updated_at": 1772513274.8290102
+    }
+  },
+  "speaking_videos": {
+    "A1": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A1.webm",
+      "error": "",
+      "updated_at": 1772508106.592647
+    },
+    "A2": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A2.webm",
+      "error": "",
+      "updated_at": 1772508258.5176275
+    },
+    "A3": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A3.webm",
+      "error": "",
+      "updated_at": 1772508416.2627106
+    },
+    "A4": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A4.webm",
+      "error": "",
+      "updated_at": 1772508550.9742916
+    },
+    "A5": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A5.webm",
+      "error": "",
+      "updated_at": 1772508751.543729
+    },
+    "A6": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A6.webm",
+      "error": "",
+      "updated_at": 1772508851.3182683
+    },
+    "A7": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A7.webm",
+      "error": "",
+      "updated_at": 1772508962.223339
+    },
+    "A8": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A8.webm",
+      "error": "",
+      "updated_at": 1772509059.4225142
+    },
+    "A9": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A9.webm",
+      "error": "",
+      "updated_at": 1772509207.9721932
+    },
+    "A10": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A10.webm",
+      "error": "",
+      "updated_at": 1772509394.2202904
+    },
+    "A11": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A11.webm",
+      "error": "",
+      "updated_at": 1772509535.9337564
+    },
+    "A12": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A12.webm",
+      "error": "",
+      "updated_at": 1772509700.8107584
+    },
+    "A13": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A13.webm",
+      "error": "",
+      "updated_at": 1772509865.0905163
+    },
+    "A14": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A14.webm",
+      "error": "",
+      "updated_at": 1772510016.0450325
+    },
+    "A15": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A15.webm",
+      "error": "",
+      "updated_at": 1772510094.9075413
+    },
+    "A16": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A16.webm",
+      "error": "",
+      "updated_at": 1772510182.2477148
+    },
+    "A17": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A17.webm",
+      "error": "",
+      "updated_at": 1772510265.137913
+    },
+    "A18": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A18.webm",
+      "error": "",
+      "updated_at": 1772510378.9927084
+    },
+    "A19": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A19.webm",
+      "error": "",
+      "updated_at": 1772510520.6248114
+    },
+    "A20": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A20.webm",
+      "error": "",
+      "updated_at": 1772510734.3467536
+    },
+    "A21": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A21.webm",
+      "error": "",
+      "updated_at": 1772510925.7737103
+    },
+    "A22": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A22.webm",
+      "error": "",
+      "updated_at": 1772511086.3832836
+    },
+    "A23": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A23.webm",
+      "error": "",
+      "updated_at": 1772511237.3677845
+    },
+    "A24": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A24.webm",
+      "error": "",
+      "updated_at": 1772511359.2340164
+    },
+    "A25": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A25.webm",
+      "error": "",
+      "updated_at": 1772511498.2960603
+    },
+    "A26": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A26.webm",
+      "error": "",
+      "updated_at": 1772511709.2131917
+    },
+    "A27": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A27.webm",
+      "error": "",
+      "updated_at": 1772511919.6214852
+    },
+    "A28": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A28.webm",
+      "error": "",
+      "updated_at": 1772512072.2538562
+    },
+    "A29": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A29.webm",
+      "error": "",
+      "updated_at": 1772512251.547763
+    },
+    "A30": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A30.webm",
+      "error": "",
+      "updated_at": 1772512409.2649024
+    },
+    "A31": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A31.webm",
+      "error": "",
+      "updated_at": 1772512541.3026292
+    },
+    "A32": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A32.webm",
+      "error": "",
+      "updated_at": 1772512699.9615302
+    },
+    "A33": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A33.webm",
+      "error": "",
+      "updated_at": 1772512860.9854069
+    },
+    "A34": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A34.webm",
+      "error": "",
+      "updated_at": 1772513048.3951807
+    },
+    "A35": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A35.webm",
+      "error": "",
+      "updated_at": 1772513173.7022097
+    },
+    "A36": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A36.webm",
+      "error": "",
+      "updated_at": 1772513272.9158735
+    },
+    "A37": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\A37.webm",
+      "error": "",
+      "updated_at": 1772513370.779516
+    },
+    "GM11": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\GM11.webm",
+      "error": "",
+      "updated_at": 1772513458.7275229
+    },
+    "GM12": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\GM12.webm",
+      "error": "",
+      "updated_at": 1772513587.0600162
+    },
+    "GM13": {
+      "status": "done",
+      "path": "avatars\\adwina\\speaking\\GM13.webm",
+      "error": "",
+      "updated_at": 1772513673.6961555
+    }
+  },
+  "active_job": null,
+  "errors": [
+  ]
+}

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Interactive Avatar</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="app-container">
+        <!-- Background Base Image (always visible, prevents black) -->
+        <div class="background-layer">
+            <img src="assets/base.jpeg" alt="Background" class="base-image" id="baseImage">
+        </div>
+
+        <!-- Video Container (on top of background) -->
+        <div class="video-container">
+            <video id="videoA" class="avatar-video active" playsinline></video>
+            <video id="videoB" class="avatar-video" playsinline></video>
+        </div>
+
+        <!-- UI Toggle Button (invisible, top-left corner) -->
+        <button id="toggleUI" class="toggle-ui-btn" title="Toggle UI"></button>
+
+        <!-- UI Overlay (on top of everything) -->
+        <div class="ui-overlay" id="uiOverlay">
+            <!-- Top Section: Info Banner -->
+            <div class="top-section">
+                <div class="info-banner">
+                    <div class="info-pill">
+                        <span class="label">State</span>
+                        <span id="stateText" class="value">Idle</span>
+                    </div>
+                    <div class="info-pill">
+                        <span class="label">Video</span>
+                        <span id="videoName" class="value">--</span>
+                    </div>
+                    <div class="info-pill timer-pill">
+                        <span class="label">Time</span>
+                        <span id="videoTimer" class="value timer-value">00:00 / 00:00</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Bottom Section: Transcription + Button -->
+            <div class="bottom-section">
+                <!-- Transcription Display -->
+                <div class="transcription-container" id="transcriptionContainer">
+                    <div class="transcription-header">
+                        <div class="transcription-label">Transcription</div>
+                        <div class="transcription-status recording" id="transcriptionStatus">Recording</div>
+                    </div>
+                    <div class="transcription-text" id="transcriptionText" dir="rtl"></div>
+                </div>
+
+                <!-- Push to Talk Button -->
+                <div class="button-container">
+                    <button id="pushToTalk" class="push-to-talk-btn">
+                        <div class="btn-inner">
+                            <svg class="mic-icon" viewBox="0 0 24 24" fill="currentColor">
+                                <path
+                                    d="M12 14c1.66 0 3-1.34 3-3V5c0-1.66-1.34-3-3-3S9 3.34 9 5v6c0 1.66 1.34 3 3 3zm-1-9c0-.55.45-1 1-1s1 .45 1 1v6c0 .55-.45 1-1 1s-1-.45-1-1V5z" />
+                                <path
+                                    d="M17 11c0 2.76-2.24 5-5 5s-5-2.24-5-5H5c0 3.53 2.61 6.43 6 6.92V21h2v-3.08c3.39-.49 6-3.39 6-6.92h-2z" />
+                            </svg>
+                        </div>
+                        <div class="btn-pulse"></div>
+                    </button>
+                    <div class="button-hint" id="buttonHint">Press and hold while speaking</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="agent.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>

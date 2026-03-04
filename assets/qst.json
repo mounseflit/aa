@@ -1,0 +1,189 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "text": "hi",
+      "answer": "Hello and welcome, I am your digital assistant and I am honored to connect with you and accompany you on this journey."
+    },
+    {
+      "number": 2,
+      "text": "who are you",
+      "answer": "I am your digital guide, here to help you with any questions you may have about our platform and services."
+    },
+    {
+      "number": 3,
+      "text": "thank you",
+      "answer": "Thank you as well for your interest and engagement. Your curiosity and involvement are greatly appreciated."
+    },
+    {
+      "number": 4,
+      "text": "bye",
+      "answer": "Thank you for connecting with us. We look forward to continuing this journey together."
+    },
+    {
+      "number": 5,
+      "text": "What is ADWIN and what is its main mission?",
+      "answer": "ADWIN is a global platform dedicated to empowering African and Afro-descendant women through an integrated support ecosystem."
+    },
+    {
+      "number": 6,
+      "text": "What is ADWIN’s overall objective by 2030?",
+      "answer": "Its goal is to impact millions of women by 2030 by reducing structural inequalities."
+    },
+    {
+      "number": 7,
+      "text": "Who are the founders of ADWIN?",
+      "answer": "ADWIN was co-founded by Elisabeth Moreno, Prescillia Avenel-Delpha, and George-Axelle Broussillon Matschinga."
+    },
+    {
+      "number": 8,
+      "text": "How does ADWIN use AI on its platform?",
+      "answer": "AI is used to personalize learning journeys, analyze members’ needs, and connect them with the right opportunities."
+    },
+    {
+      "number": 9,
+      "text": "In which areas does ADWIN aim to create sustainable impact?",
+      "answer": "Its areas of impact include education, finance, leadership, well-being, and culture."
+    },
+    {
+      "number": 10,
+      "text": "Which categories of women does ADWIN target?",
+      "answer": "ADWIN targets African and Afro-descendant women, including students, entrepreneurs, professionals, and women transitioning careers."
+    },
+    {
+      "number": 11,
+      "text": "Why does ADWIN specifically focus on African and Afro-descendant women?",
+      "answer": "The organization focuses on these women because they face specific systemic barriers."
+    },
+    {
+      "number": 12,
+      "text": "How does ADWIN measure its success?",
+      "answer": "Success is measured through employment access, funding secured, business growth, and improved well-being."
+    },
+    {
+      "number": 13,
+      "text": "What are the main challenges ADWIN addresses?",
+      "answer": "ADWIN addresses challenges related to access to capital, mentorship, skills, and professional networks."
+    },
+    {
+      "number": 14,
+      "text": "How does ADWIN fit into the global movement for gender equality?",
+      "answer": "It contributes to the global movement for economic equality and inclusive female leadership."
+    },
+    {
+      "number": 15,
+      "text": "What is the WinSkills pillar and what is its objective?",
+      "answer": "WinSkills develops technical, digital, and entrepreneurial skills."
+    },
+    {
+      "number": 16,
+      "text": "How does WinSkills combine digital training and in-person experiences?",
+      "answer": "It combines online courses, practical workshops, and academic partnerships."
+    },
+    {
+      "number": 17,
+      "text": "Which professional skills does WinSkills aim to develop?",
+      "answer": "Skills include leadership, innovation, finance, technology, and soft skills."
+    },
+    {
+      "number": 18,
+      "text": "What role do mentors play in WinSkills?",
+      "answer": "Mentors support participants in applying their skills in practice by providing strategic advice, experience-based feedback, and personalized career guidance."
+    },
+    {
+      "number": 19,
+      "text": "How can a woman apply for a WinSkills program?",
+      "answer": "Registration is done through ADWIN’s official platform, where candidates can review available programs and submit their applications online."
+    },
+    {
+      "number": 20,
+      "text": "What is the WinConfidence pillar about?",
+      "answer": "WinConfidence is dedicated to developing self-confidence, leadership, and strategic positioning. It aims to strengthen women’s ability to make decisions, assert themselves, and take on leadership roles."
+    },
+    {
+      "number": 21,
+      "text": "How does WinConfidence help build self-confidence?",
+      "answer": "Through mentorship, coaching, experience-sharing, and exposure to inspiring role models. The support helps overcome self-doubt, clarify goals, and develop a strong professional presence."
+    },
+    {
+      "number": 22,
+      "text": "What types of mentors participate in WinConfidence?",
+      "answer": "Experienced professionals, entrepreneurs, executives, and sector experts with practical leadership and strategic decision-making experience."
+    },
+    {
+      "number": 23,
+      "text": "How are mentors selected for WinConfidence?",
+      "answer": "Mentors are selected based on their expertise, professional background, commitment to women’s empowerment, and ability to provide effective guidance."
+    },
+    {
+      "number": 24,
+      "text": "How does WinConfidence highlight inspiring role models?",
+      "answer": "By showcasing success stories, giving the floor to leaders, and creating spaces for sharing real-life experiences."
+    },
+    {
+      "number": 25,
+      "text": "Which interactive tools does WinConfidence offer?",
+      "answer": "Digital mentoring platforms, online discussion spaces, live sessions, and self-assessment tools to track personal progress."
+    },
+    {
+      "number": 26,
+      "text": "What is the main objective of WinCapital?",
+      "answer": "WinCapital aims to reduce inequalities in access to funding by facilitating capital access for African and Afro-descendant women entrepreneurs. It supports business creation, growth, and sustainability."
+    },
+    {
+      "number": 27,
+      "text": "How does WinCapital facilitate access to funding for entrepreneurs?",
+      "answer": "By connecting entrepreneurs with investors, impact funds, and financial institutions, and by supporting them in preparing applications, structuring projects, and strengthening financial credibility."
+    },
+    {
+      "number": 28,
+      "text": "What funding sources are identified by WinCapital?",
+      "answer": "Private investors, impact investment funds, financial institutions, and public or international grant programs."
+    },
+    {
+      "number": 29,
+      "text": "How does WinCapital support innovation?",
+      "answer": "By prioritizing innovative projects with strong economic or social impact and supporting entrepreneurs in building sustainable business models."
+    },
+    {
+      "number": 30,
+      "text": "What are the eligibility criteria for an entrepreneur?",
+      "answer": "Clarity of the project, management credibility, profitability potential, socio-economic impact, and entrepreneurial commitment."
+    },
+    {
+      "number": 31,
+      "text": "How does WinCapital monitor funded projects?",
+      "answer": "Through strategic and financial follow-up, including reporting, performance evaluation, and ongoing support to ensure sustainability."
+    },
+    {
+      "number": 32,
+      "text": "What does WinWell mean and what are its objectives?",
+      "answer": "WinWell is dedicated to women’s holistic well-being. Its objective is to ensure a sustainable balance between professional success, mental health, physical health, and social stability."
+    },
+    {
+      "number": 33,
+      "text": "How does WinWell address mental and physical well-being?",
+      "answer": "By offering awareness resources, psychological support, stress management guidance, and initiatives promoting healthy lifestyles."
+    },
+    {
+      "number": 34,
+      "text": "What health-related solutions does WinWell provide?",
+      "answer": "Support programs, access to experts, and workshops on mental health, stress management, and work-life balance."
+    },
+    {
+      "number": 35,
+      "text": "What specific challenges does WinWell help Afro-descendant women overcome?",
+      "answer": "Chronic stress, isolation, mental overload, social vulnerability, and professional pressure—often amplified by structural inequalities."
+    },
+    {
+      "number": 36,
+      "text": "outof context",
+      "answer": "Sorry, I cannot answer you as the question you asked is out of my capabilities and context."
+    },
+    {
+      "number": 37,
+      "text": "gibberish",
+      "answer": "Sorry, I did not quite understand you well. Can you please repeat what you just said?"
+    }
+  ]
+}
