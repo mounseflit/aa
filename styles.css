@@ -164,20 +164,20 @@ body {
 }
 
 .value.idle {
-    color: #6366f1;
+    color: #6D4794;
 }
 
 .value.listening {
-    color: #f59e0b;
+    color: #A855F7;
 }
 
 .value.processing {
-    color: #3b82f6;
+    color: #8B5FBF;
     animation: pulse-text 1s infinite;
 }
 
 .value.speaking {
-    color: #10b981;
+    color: #C084FC;
 }
 
 @keyframes pulse-text {
@@ -213,10 +213,10 @@ body {
 
 /* ==================== TRANSCRIPTION ==================== */
 .transcription-container {
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(109, 71, 148, 0.15);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
-    border: 1px solid rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(109, 71, 148, 0.3);
     padding: 8px 16px;
     border-radius: 20px;
     max-width: 400px;
@@ -263,15 +263,15 @@ body {
     height: 70px;
     border-radius: 50%;
     border: none;
-    background: linear-gradient(145deg, #6366f1, #4f46e5);
+    background: linear-gradient(145deg, #7E52A8, #6D4794);
     cursor: pointer;
     transition: all 0.2s ease;
-    box-shadow: 0 8px 30px rgba(99, 102, 241, 0.4);
+    box-shadow: 0 8px 30px rgba(109, 71, 148, 0.4);
 }
 
 .push-to-talk-btn:hover {
     transform: scale(1.05);
-    box-shadow: 0 12px 40px rgba(99, 102, 241, 0.5);
+    box-shadow: 0 12px 40px rgba(109, 71, 148, 0.5);
 }
 
 .push-to-talk-btn.disabled {
@@ -286,8 +286,8 @@ body {
 .push-to-talk-btn:active,
 .push-to-talk-btn.active {
     transform: scale(0.95);
-    background: linear-gradient(145deg, #f59e0b, #d97706);
-    box-shadow: 0 5px 25px rgba(245, 158, 11, 0.5);
+    background: linear-gradient(145deg, #A855F7, #8B3FD4);
+    box-shadow: 0 5px 25px rgba(168, 85, 247, 0.5);
 }
 
 .btn-inner {
@@ -311,14 +311,14 @@ body {
     width: 100%;
     height: 100%;
     border-radius: 50%;
-    border: 3px solid rgba(99, 102, 241, 0.5);
+    border: 3px solid rgba(109, 71, 148, 0.5);
     opacity: 0;
     pointer-events: none;
 }
 
 .push-to-talk-btn.active .btn-pulse {
     animation: btn-ripple 1s infinite;
-    border-color: rgba(245, 158, 11, 0.5);
+    border-color: rgba(168, 85, 247, 0.5);
 }
 
 @keyframes btn-ripple {
@@ -334,7 +334,7 @@ body {
 }
 
 .button-hint {
-    background: rgba(0, 0, 0, 0.6);
+    background: rgba(109, 71, 148, 0.2);
     backdrop-filter: blur(5px);
     -webkit-backdrop-filter: blur(5px);
     padding: 8px 16px;
@@ -345,8 +345,8 @@ body {
 }
 
 .button-hint.recording {
-    color: #f59e0b;
-    background: rgba(245, 158, 11, 0.2);
+    color: #C084FC;
+    background: rgba(168, 85, 247, 0.2);
 }
 
 /* ==================== RESPONSIVE ==================== */
